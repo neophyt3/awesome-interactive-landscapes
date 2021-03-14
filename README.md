@@ -18,11 +18,11 @@ A curated list of interactive landscapes
 
 ## Other Interactive Landscapes
 
-- [OpenJS Foundation](https://openjsf.org/projects/)
 - [Apache Projects](https://projects.apache.org/projects.html)
 - [Layer5.io Service Mesh](https://layer5.io/landscape)
-- [OpenAPM](https://openapm.io/landscape)
 - [O4B European Commercial OSS](https://landscape.o4b.org/)
+- [OpenAPM](https://openapm.io/landscape)
+- [OpenJS Foundation](https://openjsf.org/projects/)
 
 
 - - -
