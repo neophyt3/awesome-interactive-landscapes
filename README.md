@@ -9,7 +9,6 @@ A curated list of interactive landscapes
 - [Continuous Delivery](https://l.cd.foundation/)
 - [FINOS Foundation](https://l.finos.org/)
 - [GraphQL Landscape](https://l.graphql.org/)
-- [Linux Foundation AI](https://l.lfai.foundation/)
 - [Linux Foundation AI & Data](https://l.lfaidata.foundation/)
 - [Linux Foundation Edge](https://l.lfedge.org/)
 - [Linux Foundation Public Health](https://l.lfph.io/)
