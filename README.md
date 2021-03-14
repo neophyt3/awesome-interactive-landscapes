@@ -1,24 +1,28 @@
 # awesome-interactive-landscapes
 
-A curated list of Interactive Landscapes
+A curated list of interactive landscapes
 
-- [Awesome Interactive Landscapes]
-  - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
-  - [LF AI Foundation Interactive Landscape](https://landscape.lfai.foundation/)
-  - [OpenJS Foundation Interactive Landscape](https://landscape.openjsf.org/)
-  - [GraphQL Landscape](https://landscape.graphql.org/)
-  - [ASWF Interactive Landscape](https://landscape.aswf.io/)
-  - [Apache Projects](https://projects.apache.org/projects.html)
-  - [Linux Foundation Edge Interactive Landscape](https://landscape.lfedge.org/)
-  - [Open Mainframe Project Interactive Landscape](https://landscape.openmainframeproject.org/)
-  - [Layer5.io Service Mesh Landscape](https://layer5.io/landscape)
-  - [Urban Computing Foundation Interactive Landscape](https://landscape.uc.foundation/)
-  - [LF AI & Data Foundation Interactive Landscape](https://landscape.lfaidata.foundation/)
-  - [Continuous Delivery Landscape](https://landscape.cd.foundation/)
-  - [LF Public Health Landscape](https://landscape.lfph.io/)
-  - [OpenAPM Landscape](https://openapm.io/landscape)
-  - [FINOS Foundation landscape](https://landscape.finos.org/)
-  - [O4B European Commercial OSS Landscape](https://landscape.o4b.org/)
+## Based on CNCF Interactive Landscape
+
+- [ASWF](https://l.aswf.io/)
+- [CNCF Cloud Native](https://l.cncf.io/)
+- [Continuous Delivery](https://l.cd.foundation/)
+- [FINOS Foundation](https://l.finos.org/)
+- [GraphQL Landscape](https://l.graphql.org/)
+- [Linux Foundation AI](https://l.lfai.foundation/)
+- [Linux Foundation AI & Data](https://l.lfaidata.foundation/)
+- [Linux Foundation Edge](https://l.lfedge.org/)
+- [Linux Foundation Public Health](https://l.lfph.io/)
+- [Open Mainframe Project](https://l.openmainframeproject.org/)
+- [Urban Computing Foundation](https://l.uc.foundation/)
+
+## Other Interactive Landscapes
+
+- [OpenJS Foundation](https://openjsf.org/projects/)
+- [Apache Projects](https://projects.apache.org/projects.html)
+- [Layer5.io Service Mesh](https://layer5.io/landscape)
+- [OpenAPM](https://openapm.io/landscape)
+- [O4B European Commercial OSS](https://landscape.o4b.org/)
 
 
 - - -
