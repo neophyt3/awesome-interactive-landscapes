@@ -2,7 +2,7 @@
 
 A curated list of interactive landscapes
 
-## Based on CNCF Interactive Landscape
+## Linux Fondation based Interactive Landscapes
 
 - [ASWF](https://l.aswf.io/)
 - [CNCF Cloud Native](https://l.cncf.io/)
@@ -11,8 +11,10 @@ A curated list of interactive landscapes
 - [GraphQL Landscape](https://l.graphql.org/)
 - [Linux Foundation AI & Data](https://l.lfaidata.foundation/)
 - [Linux Foundation Edge](https://l.lfedge.org/)
+- [Linux Foundation Energy](https://l.lfenergy.org/)
 - [Linux Foundation Public Health](https://l.lfph.io/)
 - [Open Mainframe Project](https://l.openmainframeproject.org/)
+- [TARS](https://l.tarscloud.org/)
 - [Urban Computing Foundation](https://l.uc.foundation/)
 
 ## Other Interactive Landscapes
